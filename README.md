@@ -1,9 +1,9 @@
-# Phase 3 Project Guidelines
+# Phase 3 Project Guidelines(POETRY APP)
 
-## Learning Goals
+## Setup
 
-- Build a web basic API with Sinatra and Active Record to support a React
-  frontend
+- Git clone this repository then run ```rake server``` to get started
+- Git clone this repository [https://github.com/OgembaJr/front-end-sinatra-project](https://github.com/OgembaJr/front-end-sinatra-project) and npm start to get the front-end started
 
 ## Introduction
 
