@@ -9,6 +9,18 @@
 
 This is a platform for poets/authors to place their creative ideas in poetry and also lovers of poetry to access educative, inspiring and entertaining poems.
 
+## Technologies Used
+- React.js
+- Sinatra
+- Sqlite3
+
+## Prerequisites
+ - Node.js
+ - npm
+ - Ruby
+ - SQLite3
 
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
